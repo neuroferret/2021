@@ -5,7 +5,7 @@ const fetchPosters = async () => {
 }
 
 const goToRoom = (roomName) => {
-  location.href = `https://meet.jit.si/NetNeurosci2021_${roomName}`;
+  location.href = `https://meet.jit.si/NeuroFerret2021_${roomName}`;
 }
 
 function openJit(id, name) {
@@ -122,7 +122,7 @@ const main = async () => {
     navigatorAutoFade:  false,
     id: "openseadragon1",
     showNavigationControl: false,
-    tileSources: "https://microdraw.pasteur.fr/netneurosci2021/ducky.js"
+    tileSources: "https://microdraw.pasteur.fr/neuroferret2021/dzi.js"
   });
   
   viewer.bookmarkUrl();
