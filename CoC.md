@@ -1,6 +1,6 @@
 # CODE OF CONDUCT
 
-Network Neuroscience is dedicated to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, social class and background, disability, physical appearance, body size, race, age, religion, nationality, or the presence of or care for dependents. We do not tolerate harassment of conference participants in any form. Event participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organisers.
+The NeuroFerret meeting is dedicated to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, social class and background, disability, physical appearance, body size, race, age, religion, nationality, or the presence of or care for dependents. We do not tolerate harassment of conference participants in any form. Event participants violating these rules may be sanctioned or expelled from the event at the discretion of the event organisers.
 
 
 **Harassment** includes, but is not limited to:
@@ -27,7 +27,7 @@ If someone makes you or anyone else feel unsafe or unwelcome, please report it a
 
 Harassment or non-inclusive behavior is defined by you. So, do not hesitate to report something because someone else thinks the behavior is "reasonable". That person may not share your protected characteristic(s).  
 
-You can make a report by emailing the organisers at netneurosci[at]gmail.com. This address will be continuously monitored during the event by the organisers. You may also report the incident to any one of the organising committee members that you feel most comfortable reporting to. The person you report to will share the information with the other organisers.
+You can make a report by emailing the organisers at neuroferret[at]gmail.com. This address will be continuously monitored during the event by the organisers. You may also report the incident to any one of the organising committee members that you feel most comfortable reporting to. The person you report to will share the information with the other organisers.
 
 
 ### What happens if I make a report?
