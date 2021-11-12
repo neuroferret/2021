@@ -12,9 +12,16 @@ function openJit(id, name) {
   window.open("room.html#"+id+"."+name);
 }
 
+/*
+     width="7458.5156"
+     height="3400"
+     x="-1723.7458"
+     y="0"
+*/
+
 const displayPosters = (posters) => {
-  const [minx, maxx, miny] = [-1400, 4000, 50]; //[-6312.8579, 4021.7126, -4834.8994, 1477.1853];
-  const g = 1000/(maxx - minx) * 0.924;
+  const [minx, maxx, miny] = [-1750, 5700, 0]; //[-6312.8579, 4021.7126, -4834.8994, 1477.1853];
+  const g = 1000/(maxx - minx);
   let svg = "";
   let i =0;
   for (const p of posters) {
@@ -122,6 +129,7 @@ const main = async () => {
     navigatorAutoFade:  false,
     id: "openseadragon1",
     showNavigationControl: false,
+    // tileSources: "dzi.js"
     tileSources: "https://microdraw.pasteur.fr/neuroferret2021/dzi.js"
   });
   
