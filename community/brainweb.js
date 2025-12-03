@@ -1,5 +1,5 @@
 function chart(data, {width, height, radius, clickCallback}) {
-  const zoom = 1.5;
+  const zoom = 3;
   const nodes = data.nodes;
   const links = data.links;
   const simulation = d3.forceSimulation(nodes)
